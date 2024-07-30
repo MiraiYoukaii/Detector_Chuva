@@ -5,6 +5,6 @@
 
 O sistema identifica a umidade do ar, conforme a umidade aumenta as luzes acendem, ajudando a identicar um possivel temporal, assim ajudando pessoas que moram em áreas rurais a evitar chuvas.
 
-<kdb>{c:green}* **Luz Verde** Umidade alta{/c}<kdb>
+{c:green}* **Luz Verde** Umidade alta{/c}
 * **Luz Amarela** Umidade média
 * **Luz vermelha** Umidade baixa
