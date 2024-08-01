@@ -19,7 +19,3 @@ Teste o seu módulo com apenas 3 leds e 3 resistores, montando o circuito abaixo
 O sensor de chuva para Arduino é um componente com duas partes: a placa do sensor, formada por várias trilhas resistentes à oxidação, que vão detectar o nível de líquido que está atingindo a placa, e o módulo com chip comparador LM393, que é o responsável por ler as informações desse sensor e enviar os dados pelas pinos A0 (analógico), ou D0 (digital – valores 0 e 1).
 
 O programa de teste lê as informações do sensor e acende os leds de acordo com o nível de líquido detectado. Os valores são lidos em uma série de comandos IF (SE), que podem ser acrescentados ou alterados de acordo com o nível de precisão desejada.
-
-# Funcionamento 
-
-<video src="lv_0_20240801133345.mp4" width="320" height="240" controls></video>
